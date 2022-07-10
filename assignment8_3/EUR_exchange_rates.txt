@@ -1,0 +1,28 @@
+USD,US dollar,1.0929
+JPY,Japanese yen,126.17
+BGN,Bulgarian lev,1.9558
+CZK,Czech koruna,25.737
+DKK,Danish krone,7.4394
+GBP,Pound sterling,0.82388
+HUF,Hungarian forint,386.54
+PLN,Polish zloty,4.8530
+RON,Romanian leu,4.9495
+SEK,Swedish krona,10.7935
+CHF,Swiss franc,1.0056
+ISK,Icelandic krona,144.20
+NOK,Norwegian krone,9.8358
+HRK,Croatian kuna,7.5584
+TRY,Turkish lira,15.5681
+AUD,Australian dollar,1.4872
+BRL,Brazilian real,5.5313
+CAD,Canadian dollar,1.3937
+CNY,Chinese yuan renminbi,6.9065
+HKD,Hong Kong dollar,8.5411
+IDR,Indonesian rupiah,15725.30
+INR,Indian rupee,83.4354
+MXN,Mexican peso,22.7543
+MYR,Malaysian ringgit,4.5661
+NZD,New Zealand dollar,1.6005
+PHP,Philippine peso,56.814
+SGD,Singapore dollar,1.4872
+THB,Thai baht,35.776

@@ -1,0 +1,17 @@
+JPY,Japanese yen,115.058300
+EUR,Euro,0.922917
+BGN,Bulgarian lev,1.805070
+CZK,Czech koruna,-
+DKK,Danish krone,6.865347
+GBP,Pound sterling,0.759656
+HUF,55,-
+CHF,Swiss franc,0.92336
+AUD,Australian dollar,1.33486
+INR,Indian rupee,75.5199
+NZD,New Zealand dollar,1.43972,/1.95
+BTC,Bitcoin,0.00002
+CAD,Canadian dollar,1.25049
+VEF,Venezuelan Bolivar Fuerte,435,581
+BRL,Brazilian real,4.75684
+VND,Vietnamese Dong,22,838.6
+LTC,Litecoin,0.00782

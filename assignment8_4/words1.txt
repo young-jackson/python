@@ -1,0 +1,7 @@
+kirja:book
+talo:house/building
+kivi:stone/rock
+mekko:dress
+tietokone:computer
+tietojenkasittelytiede:Computer Science
+puku:suit/dress/gown

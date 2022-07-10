@@ -1,0 +1,24 @@
+Code,Name,ECTS,Period,Level
+CS-A1111,Ohjelmoinnin peruskurssi Y1,5,I-II,Bachelor
+CS-A1111,Ohjelmoinnin peruskurssi Y1,5,summer,Bachelor
+CS-A1121,Ohjelmoinnin peruskurssi Y2,5,II-IV,Bachelor
+CS-A1150,Tietokannat,5,III-V,Bachelor
+CS-C3170,Web Software Development,5,II,Master
+CS-E4650,Methods of Data Mining,5,III-IV,Master
+CS-E4580,Programming Parallel Computers,5,V,Master
+ELEC-E7851,Computational User Interface Design,5,IV,Master
+MS-A0111,Differential and Integral Calculus 1,5,I,Bachelor
+MS-A0102,Differentiaali- ja integraalilaskenta 1,5,II,Bachelor
+MS-A0001,Matrix Algebra,5,II,Bachelor
+MS-A0503,First Course in Probability and Statistics,5,III,Bachelor
+CS-A1110,Programming 1,5,I-II,Bachelor
+CS-A1120,Programming 2,5,IV-V,Bachelor
+CS-A1140,Data Structures and Algorithms,5,I-II,Bachelor
+CS-A1110,Ohjelmointi 1,5,I-II,Bachelor
+TU-A1100,Tuotantotalous 1,5,I-II,Bachelor
+31A00110,Taloustieteen perusteet,6,I,Bachelor
+32C25000,Sopimusjuridiikka,6,I,Bachelor
+CHEM-A1600,Akateemisen ajattelun alkeiskurssi,3,I-II,Bachelor
+CS-C1000,Introduction to Artificial Intelligence,3,IV,Bachelor
+TU-A1150,Filosofia ja systeemiajattelu,3,III-IV,Bachelor
+NBE-C3001,Aivoaakkoset,4,I-II,Bachelor

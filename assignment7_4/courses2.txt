@@ -1,0 +1,44 @@
+Code,Name,ECTS,Period,Level
+CS-A1111,Ohjelmoinnin peruskurssi Y1,5,I-II,Bachelor
+CS-A1111,Ohjelmoinnin peruskurssi Y1,5,summer,Bachelor
+CS-A1121,Ohjelmoinnin peruskurssi Y2,5,II-IV,Bachelor
+CS-A1150,Tietokannat,5,III-V,Bachelor
+
+CS-C3170;Web Software Development;5;II;Master
+CS-E4580,Programming Parallel Computers,5,V,Master
+
+CS-C3120,Human-Computer Interaction,5,I-II,Bachelor
+CS-E5370,Law in Digital Society,5,III,Bachelor
+
+ELEC-A7100,C-ohjelmoinnin peruskurssi,5,III-V,Bachelor
+ELEC-E7851,Computational User Interface Design,5,IV,Master
+MS-A0111,Differential and Integral Calculus 1,5,I,Bachelor
+MS-A0102,Differentiaali- ja integraalilaskenta 1,5,II,Bachelor
+MS-A0001,Matrix Algebra,5,II,Bachelor
+MS-A0503,First Course in Probability and Statistics
+
+CS-A1140,Data Structures and Algorithms,5,I-II,Bachelor,Master
+CS-A1110,Ohjelmointi 1,5,I-II,Bachelor
+CS-A1120,Ohjelmointi 2,5,Bachelor
+TU-A1100,Tuotantotalous 1,5,I-II,Bachelor
+31A00110,Taloustieteen perusteet,6,I,Bachelor
+32C25000,Sopimusjuridiikka,6,I,Bachelor
+CHEM-A1600,Akateemisen ajattelun alkeiskurssi,3,I-II,Bachelor
+CS-C1000,Introduction to Artificial Intelligence,3,IV,Bachelor
+x--,III-IV,Bachelor
+NBE-C3001,Bachelor,?
+UWAS-C0025,Art and Artificial Intelligence,5,II,Bachelor,Master
+UWAS-C0004,Miten idea materialisoituu,5,III,Bachelor
+UWAS-C0008,Design Learning,3,III,Bachelor
+UWAS-C000x,Invalid line,3,III,Bachelor,Master
+UWAS-C0036,Game Design and Production,6,III,Bachelor
+UWAS-C0054,Simulating the Post-Disaster,5,III,Bachelor
+MS-C2128,Prediction and Time-Series Analysis,5,II,Bachelor
+MS-C2105,Introduction to Optimization,5,IV,Bachelor
+
+CS-C3100,Computer Graphics,5,I-II,Bachelor
+CS-E4710,Machine Learning: Supervised Methods,5,I-II,Bachelor
+CS-E4710,Machine Learning: Supervised Methods,5,I-II,Master
+CS-E4650,Methods of Data Mining,5,I-II,Bachelor
+CS-E5710,Bayesian Data Analysis,5,I-II,Bachelor
+CS-E4840,Information Visualization,5,IV,Bachelor
